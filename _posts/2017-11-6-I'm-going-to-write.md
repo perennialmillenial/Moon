@@ -4,7 +4,7 @@ description: Finally making an effort to get over my fear of sharing anything I 
 categories:
 - journal
 tags:
-- writing
+- WRITING
 ---
 
 I've wanted to be a writer since middle school, maybe elementary school. Whenever it was that I fell in love with reading. Writing was a lot of things to me, an outlet, an escape, and a way to transform intangible feelings from a complicated mess of gibberish into something concrete. It validated me.

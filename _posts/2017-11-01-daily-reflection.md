@@ -2,7 +2,7 @@
 title: First trial post on this blog
 description: Embarking on this blogging journey by making things more complicated than it needs to be. Also, post vacation depression.
 tags:
-- travel
+- TRAVEL
 ---
 
  I've been back home for three days now and the complacency/boredom/whatever the fuck you want to call it has already set in and quite frankly I am starting to feel absolutely pathetic. No... that's a lie. Not pathetic. Strange.
